@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "DCS-SYS",
+    "slug": "DCS-SYS",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "DCS-SYS"
+}
