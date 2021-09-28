@@ -1,0 +1,1 @@
+Para efeitos de demonstração, são apresentadas figuras relativas ao funcionamento da aplicação no relatório. As figuras foram retiradas de emuladores de dispositivos Android. Os testes em dispositivos IOS foram realizados com recurso a dispositivos físicos.
